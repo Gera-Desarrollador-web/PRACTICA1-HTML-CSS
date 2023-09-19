@@ -15,8 +15,7 @@ Este repositorio alberga el código fuente y los recursos de una página web ded
 
 <h2>Algunos conceptos aplicados</h2>
 
-<code>
-input[type="submit"]{
+<code>input[type="submit"]{
     width: 100%;
     background-color: green;
     color: white;
@@ -27,13 +26,9 @@ input[type="submit"]{
     cursor: pointer;
     position: relative;
     
-}
-</code>
+}</code>
 
-<code>
-
-textarea:focus,input:focus{
+<code>textarea:focus,input:focus{
     background-color: rgb(255, 209, 252);
-}
-</code>
+}</code>
 
