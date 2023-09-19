@@ -12,6 +12,7 @@ Este repositorio alberga el código fuente y los recursos de una página web ded
 - Formulario de contacto
 
 <h2>Algunos conceptos aplicados</h2>h2>
+
 ```
 input[type="submit"]{
     width: 100%;
