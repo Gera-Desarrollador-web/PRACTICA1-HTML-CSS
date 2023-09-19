@@ -11,9 +11,9 @@ Este repositorio alberga el código fuente y los recursos de una página web ded
 - Fotos y videos de Z4X usando audiovisuales
 - Formulario de contacto
 
-<h2>Algunos conceptos aplicados</h2>h2>
+<h2>Algunos conceptos aplicados</h2>
 
-```
+<code>
 input[type="submit"]{
     width: 100%;
     background-color: green;
@@ -26,9 +26,12 @@ input[type="submit"]{
     position: relative;
     
 }
-```
-```
+</code>
+
+<code>
+
 textarea:focus,input:focus{
     background-color: rgb(255, 209, 252);
 }
-```
+</code>
+
