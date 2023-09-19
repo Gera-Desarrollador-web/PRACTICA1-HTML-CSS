@@ -6,10 +6,12 @@ Este repositorio alberga el código fuente y los recursos de una página web ded
 [![](https://github.com/Gera-Desarrollador-web/PRACTICA1-HTML-CSS/blob/master/assets/img/README.png?raw=true)](https://github.com/Gera-Desarrollador-web/PRACTICA1-HTML-CSS/blob/master/assets/img/README.png?raw=true)
 
 <h2>Secciones de la pagina web</h2>
-- La historia completa de Z4X y sus misiones
-- Las misiones que realizó Z4X usando tablas
-- Fotos y videos de Z4X usando audiovisuales
-- Formulario de contacto
+<ul>
+<li>La historia completa de Z4X y sus misiones</li>
+<li>Las misiones que realizó Z4X usando tablas</li>
+<li>Fotos y videos de Z4X usando audiovisuales</li>
+<li>Formulario de contacto</li>
+</ul>
 
 <h2>Algunos conceptos aplicados</h2>
 
